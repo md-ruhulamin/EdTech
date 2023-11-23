@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336424170699",
+    "project_id": "edtech-c3143",
+    "storage_bucket": "edtech-c3143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336424170699:android:7854e09fb646febbbf174e",
+        "android_client_info": {
+          "package_name": "com.example.edtech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASHGccyNpx-Kej4E8-LLMQMeC1l3E5xFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
